@@ -62,3 +62,7 @@ Credenciales correctas:
 
 Credenciales incorrectas (DNI no válido):
 ![img_1.png](img_1.png)
+
+
+El link a través de GitPod es:
+[![](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/201905597/practica-6-test)
