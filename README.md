@@ -26,7 +26,7 @@ curl -v -X POST http://localhost:8080/api/v1/process-step1 \
 Se han realizado las pruebas unitarias de las clases DNI y Telefono proporcionadas para la práctica.
 Se han usado las anotaciones @SpringBootTest(classes=DNITest.class) y @SpringBootTest(classes=TelefonoTest.class) para que los tests funcionen correctamente.
 Esto es necesario por la estructura de paquetes, que se muestra a continuación:
-![img.png](img.png)
+![img_2.png](img_2.png)
 
 #### DNITest
 Esta clase comprueba que la función "validar" de la clase DNI devuelva correctamente true/false según si un DNI dado es válido o no.
